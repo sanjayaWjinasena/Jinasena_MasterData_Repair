@@ -4,5 +4,5 @@ repair_stages_2_started,1,2-STARTED,base.main_company,Job started,10
 repair_stages_3_wt_sp,1,3-WT-SP,base.main_company,Waiting for spareparts,10
 repair_stages_4_finished,1,4-FINISHED,base.main_company,Finished,10
 repair_stages_5_ready,1,5-READY,base.main_company,Ready for collection,10
-repair_stages_1_rep_rec_6,1,1-REP-REC,,Repair receipt,10
-repair_stages_2_started_7,1,2-Started,,Job Started,10
+repair_stages_1_rep_rec_6,1,1-REP-REC,seed_master_data_and_settings.company_jinasena_agricultural_machinery,Repair receipt,10
+repair_stages_2_started_7,1,2-Started,seed_master_data_and_settings.company_jinasena_agricultural_machinery,Job Started,10

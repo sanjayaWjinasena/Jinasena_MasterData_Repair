@@ -5,4 +5,4 @@ diagnosis_areas_part_need_replacement,1,10,Part need replacement,Part need repla
 diagnosis_areas_part_damaged,1,10,Part damaged,Part damaged,base.main_company
 diagnosis_areas_part_worn_out,1,10,Part worn out,Part worn out,base.main_company
 diagnosis_areas_motor_burnt,1,10,Motor burnt,Motor burnt,base.main_company
-diagnosis_areas_burnt_part_10,1,10,Burnt Part,Burn Part,
+diagnosis_areas_burnt_part_10,1,10,Burnt Part,Burn Part,seed_master_data_and_settings.company_jinasena_agricultural_machinery

@@ -1,5 +1,5 @@
 id,x_active,x_color,x_name,x_studio_company_id/id,x_studio_sequence
 repair_reason_internal,1,0,Internal,base.main_company,10
 repair_reason_external,1,0,External,base.main_company,10
-repair_reason_internal_6,1,0,Internal,,10
-repair_reason_external_7,1,0,External,,10
+repair_reason_internal_6,1,0,Internal,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10
+repair_reason_external_7,1,0,External,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10

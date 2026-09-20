@@ -9,5 +9,5 @@ repair_reason_custom_unit_makes_a_mechanical_noise_or_rattle,1,0,Unit makes a me
 repair_reason_custom_motor_not_getting_started,1,0,Motor not getting started,base.main_company,10
 repair_reason_custom_motor_getting_tripped_from_toc,1,0,Motor getting tripped from TOC,base.main_company,10
 repair_reason_custom_pump_stops_after_some_time,1,0,Pump stops after some time,base.main_company,10
-repair_reason_custom_low_pressue,1,0,Low Pressue,,10
-repair_reason_custom_difficult_to_start_the_engine_16,1,0,Difficult to start the engine,,10
+repair_reason_custom_low_pressue,1,0,Low Pressue,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10
+repair_reason_custom_difficult_to_start_the_engine_16,1,0,Difficult to start the engine,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10
