@@ -1,0 +1,8 @@
+id,x_active,x_name,x_studio_company_id/id,x_studio_description,x_studio_sequence
+repair_stages_1_rep_rec,1,1-REP-REC,,Repair receipt,10
+repair_stages_2_started,1,2-STARTED,,Job started,10
+repair_stages_3_wt_sp,1,3-WT-SP,,Waiting for spareparts,10
+repair_stages_4_finished,1,4-FINISHED,,Finished,10
+repair_stages_5_ready,1,5-READY,,Ready for collection,10
+repair_stages_1_rep_rec_6,1,1-REP-REC,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,Repair receipt,10
+repair_stages_2_started_7,1,2-Started,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,Job Started,10

@@ -1,0 +1,13 @@
+id,x_active,x_color,x_name,x_studio_company_id/id,x_studio_sequence
+repair_reason_custom_difficult_to_start_the_engine,1,0,Difficult to start the engine,,10
+repair_reason_custom_high_current_consumption,1,0,High current consumption,,10
+repair_reason_custom_heavy_smoke,1,0,Heavy smoke,,10
+repair_reason_custom_maximum_head_not_reached,1,0,Maximum head not reached,,10
+repair_reason_custom_low_out_put,1,0,Low out put,,10
+repair_reason_custom_low_pressure,1,0,Low pressure,,10
+repair_reason_custom_unit_makes_a_mechanical_noise_or_rattle,1,0,Unit makes a mechanical noise or rattle,,10
+repair_reason_custom_motor_not_getting_started,1,0,Motor not getting started,,10
+repair_reason_custom_motor_getting_tripped_from_toc,1,0,Motor getting tripped from TOC,,10
+repair_reason_custom_pump_stops_after_some_time,1,0,Pump stops after some time,,10
+repair_reason_custom_low_pressue,1,0,Low Pressue,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10
+repair_reason_custom_difficult_to_start_the_engine_16,1,0,Difficult to start the engine,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10

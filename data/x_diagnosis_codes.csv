@@ -1,0 +1,13 @@
+id,x_active,x_studio_diagnosis_area_1/id,x_name,x_studio_sequence,x_studio_description,x_studio_company_id/id
+diagnosis_codes_seal_damaged,1,,Seal damaged,10,Seal damaged,
+diagnosis_codes_shaft,1,Jinasena_MasterData_Repair.diagnosis_areas_part_coroded,Shaft,10,Shaft,
+diagnosis_codes_preasure_booster_tank,1,,Preasure booster tank,10,Preasure booster tank,
+diagnosis_codes_circuit,1,Jinasena_MasterData_Repair.diagnosis_areas_burnt_part,Circuit,10,Circuit,
+diagnosis_codes_motor_winding_burnt,1,Jinasena_MasterData_Repair.diagnosis_areas_burnt_part,Motor winding burnt,10,Motor winding burnt,
+diagnosis_codes_condenser_burnt,1,Jinasena_MasterData_Repair.diagnosis_areas_burnt_part,Condenser burnt,10,Condenser burnt,
+diagnosis_codes_diodes,1,Jinasena_MasterData_Repair.diagnosis_areas_burnt_part,Diodes,10,Diodes,
+diagnosis_codes_fuse_burnt,1,Jinasena_MasterData_Repair.diagnosis_areas_burnt_part,Fuse burnt,10,Fuse burnt,
+diagnosis_codes_base_plate,1,Jinasena_MasterData_Repair.diagnosis_areas_part_coroded,Base plate,10,Base plate,
+diagnosis_codes_motor_housing,1,Jinasena_MasterData_Repair.diagnosis_areas_part_coroded,Motor housing,10,Motor housing,
+diagnosis_codes_pump_body,1,Jinasena_MasterData_Repair.diagnosis_areas_part_coroded,Pump body,10,Pump body,
+diagnosis_codes_base_plate_15,1,Jinasena_MasterData_Repair.diagnosis_areas_burnt_part_10,Base plate,10,Base plate,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
