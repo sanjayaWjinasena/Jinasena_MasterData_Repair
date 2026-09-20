@@ -23,7 +23,7 @@
         'data/x_repair_reason_custom.csv',
         'data/x_repair_sub_reason.csv',
         'data/x_repair_accounts.csv',
-        'data/project_task_type.csv',
+        'data/project.task.type.csv',
     ],
     'installable': True,
     'auto_install': False,
