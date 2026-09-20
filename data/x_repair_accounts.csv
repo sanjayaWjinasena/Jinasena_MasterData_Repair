@@ -1,3 +1,3 @@
-id,x_active,x_name,x_studio_company_id/id,x_studio_rug_account/id,x_studio_sequence
-repair_accounts_repair_accounts_jld,1,Repair Accounts - JLD,base.main_company,Jinasena_MasterData_Accounting.account_account_r_u_g_repairs,10
-repair_accounts_repair_accounts_jam,1,Repair Accounts - JAM,,Jinasena_MasterData_Accounting.account_account_r_u_g_repairs_under_guarantee,10
+id,x_active,x_name,x_studio_company_id/id,x_studio_sequence
+repair_accounts_repair_accounts_jld,1,Repair Accounts - JLD,base.main_company,10
+repair_accounts_repair_accounts_jam,1,Repair Accounts - JAM,,10
