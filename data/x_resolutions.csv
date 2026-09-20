@@ -1,5 +1,5 @@
 id,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_company_id/id
 resolutions_reject,1,10,REJECT,Repair rejected,base.main_company
 resolutions_rep,1,10,REP,Repaired,base.main_company
-resolutions_reject_3,1,10,Reject,Repair Rejected,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-resolutions_rep_4,1,10,REP,Repaired,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+resolutions_reject_3,1,10,Reject,Repair Rejected,
+resolutions_rep_4,1,10,REP,Repaired,

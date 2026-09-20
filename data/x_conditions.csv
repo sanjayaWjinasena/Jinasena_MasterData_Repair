@@ -2,4 +2,4 @@ id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id
 conditions_when_working_for_too_long,When working for too long,1,10,When working for too long,base.main_company
 conditions_when_switched_on,When switched on,1,10,When switched on,base.main_company
 conditions_voltage_spikes,Voltage spikes,1,10,Voltage spikes,base.main_company
-conditions_when_working_for_too_long_4,When working for too long,1,10,When working for too long,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+conditions_when_working_for_too_long_4,When working for too long,1,10,When working for too long,
