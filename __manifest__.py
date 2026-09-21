@@ -12,10 +12,6 @@
         'Jinasena_MasterData_Common',
     ],
     'data': [
-        'data/x_repair_stages.csv',
-        'data/x_repair_reason_custom.csv',
-        'data/x_repair_sub_reason.csv',
-        'data/x_repair_accounts.csv',
     ],
     'installable': True,
     'auto_install': False,
