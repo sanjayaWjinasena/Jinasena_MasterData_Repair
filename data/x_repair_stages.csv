@@ -1,4 +1,4 @@
 id,x_active,x_name,x_studio_company_id/id,x_studio_description,x_studio_sequence
-repair_stages_3_wt_sp,1,3-WT-SP,base.main_company,Waiting for spareparts,10
-repair_stages_4_finished,1,4-FINISHED,base.main_company,Finished,10
-repair_stages_5_ready,1,5-READY,base.main_company,Ready for collection,10
+repair_stages_3_wt_sp,1,3-WT-SP,seed_master_data_and_settings.company_jinasena_pvt_ltd,Waiting for spareparts,10
+repair_stages_4_finished,1,4-FINISHED,seed_master_data_and_settings.company_jinasena_pvt_ltd,Finished,10
+repair_stages_5_ready,1,5-READY,seed_master_data_and_settings.company_jinasena_pvt_ltd,Ready for collection,10
