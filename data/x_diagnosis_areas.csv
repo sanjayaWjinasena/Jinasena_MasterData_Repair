@@ -1,8 +1,0 @@
-id,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_company_id/id
-diagnosis_areas_burnt_part,1,10,Burnt part,Burnt part,base.main_company
-diagnosis_areas_part_coroded,1,10,Part coroded,Part coroded,base.main_company
-diagnosis_areas_part_need_replacement,1,10,Part need replacement,Part need replacement,base.main_company
-diagnosis_areas_part_damaged,1,10,Part damaged,Part damaged,base.main_company
-diagnosis_areas_part_worn_out,1,10,Part worn out,Part worn out,base.main_company
-diagnosis_areas_motor_burnt,1,10,Motor burnt,Motor burnt,base.main_company
-diagnosis_areas_burnt_part_10,1,10,Burnt Part,Burn Part,seed_master_data_and_settings.company_jinasena_agricultural_machinery

@@ -1,5 +1,0 @@
-id,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_company_id/id
-resolutions_reject,1,10,REJECT,Repair rejected,base.main_company
-resolutions_rep,1,10,REP,Repaired,base.main_company
-resolutions_reject_3,1,10,Reject,Repair Rejected,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-resolutions_rep_4,1,10,REP,Repaired,seed_master_data_and_settings.company_jinasena_agricultural_machinery

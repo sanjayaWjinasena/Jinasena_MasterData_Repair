@@ -1,5 +1,4 @@
 id,x_active,x_color,x_name,x_studio_company_id/id,x_studio_sequence
-repair_reason_custom_difficult_to_start_the_engine,1,0,Difficult to start the engine,base.main_company,10
 repair_reason_custom_high_current_consumption,1,0,High current consumption,base.main_company,10
 repair_reason_custom_heavy_smoke,1,0,Heavy smoke,base.main_company,10
 repair_reason_custom_maximum_head_not_reached,1,0,Maximum head not reached,base.main_company,10
@@ -9,5 +8,3 @@ repair_reason_custom_unit_makes_a_mechanical_noise_or_rattle,1,0,Unit makes a me
 repair_reason_custom_motor_not_getting_started,1,0,Motor not getting started,base.main_company,10
 repair_reason_custom_motor_getting_tripped_from_toc,1,0,Motor getting tripped from TOC,base.main_company,10
 repair_reason_custom_pump_stops_after_some_time,1,0,Pump stops after some time,base.main_company,10
-repair_reason_custom_low_pressue,1,0,Low Pressue,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10
-repair_reason_custom_difficult_to_start_the_engine_16,1,0,Difficult to start the engine,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10
