@@ -1,0 +1,2 @@
+id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id,x_studio_symptom_area/id
+symptom_codes_difsteng,DIFSTENG,1,10,Difficult to start the engine,seed_master_data_and_settings.company_jinasena_agricultural_machinery,Jinasena_MasterData_Repair.symptom_areas_falt
