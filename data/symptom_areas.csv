@@ -1,2 +1,3 @@
 id,name,active,sequence,description,accounting_company_id/id
-symptom_areas_falt,FALT,1,10,Faulty,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+symptom_areas_faulty,Faulty,1,10,Faulty,seed_master_data_and_settings.company_jinasena_pvt_ltd
+symptom_areas_faulty_3,Faulty,1,10,Faulty,seed_master_data_and_settings.company_jinasena_agricultural_machinery

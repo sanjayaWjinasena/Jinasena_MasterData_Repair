@@ -1,24 +1,22 @@
 id,name,sequence,active,fold,description,legend_blocked,legend_done,legend_normal,team_ids/id,template_id/id,accounting_company_id/id
-helpdesk_stage_sent_to_factory,Sent to Factory,1,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_received_at_factory,Received at Factory,2,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_sent_to_sales_centre,Sent to Sales Centre,9,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_received_at_sales_centre,Received at Sales Centre,10,1,1,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_repair_completed,Repair Completed,8,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_estimation_sent_to_customer,Estimation Sent to Customer,4,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_repair_started,Repair Started,7,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_estimation_approval_received,Estimation Approval Received,5,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_handed_over_to_customer,Handed Over to Customer,11,1,1,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
-helpdesk_stage_new,New,0,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_diagnosis,Diagnosis,3,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_advance_received,Advance Received,6,1,1,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_cancelled,Cancelled,12,1,1,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_sent_to_factory_24,Sent to Factory,1,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_received_at_factory_25,Received at Factory,2,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_sent_to_sales_centre_26,Sent to Sales Centre,9,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_received_at_sales_centre_27,Received at Sales Centre,10,1,1,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_repair_completed_28,Repair Completed,8,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_estimation_sent_to_customer_29,Estimation Sent to Customer,4,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_repair_started_30,Repair Started,7,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_estimation_approval_received_31,Estimation Approval Received,5,1,,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_handed_over_to_customer_32,Handed Over to Customer,11,1,1,,Blocked,Ready,In Progress,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,,
-helpdesk_stage_new_33,New,0,1,,,Blocked,Ready,In Progress,,helpdesk.new_ticket_request_email_template,
+helpdesk_stage_received_at_factory_6,Received at Factory,30,1,,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_sent_to_sales_centre_7,Sent to Sales Centre,100,1,,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_received_at_sales_centre_8,Received at Sales Centre,110,1,1,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_repair_completed_9,Repair Completed,90,1,,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_estimation_sent_to_customer_10,Estimation Sent to Customer,50,1,,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_repair_started_11,Repair Started,80,1,,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_estimation_approval_received_12,Estimation Approval Received,60,1,,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_handed_over_to_customer_13,Handed Over to Customer,120,1,1,,Blocked,Ready,In Progress,"helpdesk.helpdesk_team1,Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair",,seed_master_data_and_settings.company_jinasena_pvt_ltd
+helpdesk_stage_new_20,New,0,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_diagnosis_21,Diagnosis,3,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_advance_received_22,Advance Received,6,1,1,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_cancelled_23,Cancelled,12,1,1,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_sent_to_factory_24_2,Sent to Factory,1,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_received_at_factory_25_2,Received at Factory,2,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_sent_to_sales_centre_26_2,Sent to Sales Centre,9,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_received_at_sales_centre_27_2,Received at Sales Centre,10,1,1,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_repair_completed_28_2,Repair Completed,8,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_repair_started_30_2,Repair Started,7,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_estimation_approval_received_31_2,Estimation Approval Received,5,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_handed_over_to_customer_32_2,Handed Over to Customer,11,1,1,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+helpdesk_stage_estimation_sent_to_customer_36,Estimation Sent to Customer,4,1,,,Blocked,Ready,In Progress,"Jinasena_MasterData_Repair.helpdesk_team_customer_care_repair,helpdesk.helpdesk_team1",,seed_master_data_and_settings.company_jinasena_agricultural_machinery
