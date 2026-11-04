@@ -1,3 +1,4 @@
 id,name,sequence,active,company_id/id,description,color,assign_method,auto_assignment,member_ids/id,privacy_visibility
+helpdesk_team_customer_care_repair_1,Customer Care - Repair,10,1,seed_master_data_and_settings.company_jinasena_pvt_ltd,<p><br></p>,1,randomly,,"seed_master_data_and_settings.user_8,seed_master_data_and_settings.user_2",internal
 helpdesk_team_customer_care_repair,Customer Care - Repair,10,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery,<p><br></p>,0,randomly,,seed_master_data_and_settings.user_8,internal
 helpdesk_team_website_customers,Website Customers ,10,,seed_master_data_and_settings.company_jinasena_pvt_ltd,,0,randomly,,seed_master_data_and_settings.user_146,portal
