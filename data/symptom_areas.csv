@@ -1,2 +1,2 @@
-id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id
+id,name,active,sequence,description,accounting_company_id/id
 symptom_areas_falt,FALT,1,10,Faulty,seed_master_data_and_settings.company_jinasena_agricultural_machinery

@@ -1,4 +1,4 @@
-id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id,x_studio_diagnosis_area_1/id
+id,name,active,sequence,description,accounting_company_id/id,diagnosis_area_1/id
 diagnosis_codes_wrn_brng,WRN-BRNG,1,10,Ball bearing worn out,seed_master_data_and_settings.company_jinasena_agricultural_machinery,Jinasena_MasterData_Repair.diagnosis_areas_burnt
 diagnosis_codes_base_plate,base Plate,1,10,Base Plate,seed_master_data_and_settings.company_jinasena_agricultural_machinery,Jinasena_MasterData_Repair.diagnosis_areas_burnt
 diagnosis_codes_seal_damaged,Seal damaged,1,10,Seal damaged,seed_master_data_and_settings.company_jinasena_pvt_ltd,

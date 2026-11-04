@@ -1,4 +1,4 @@
-id,name,sequence,active,fold,description,legend_blocked,legend_done,legend_normal,team_ids/id,template_id/id,x_studio_company_id/id
+id,name,sequence,active,fold,description,legend_blocked,legend_done,legend_normal,team_ids/id,template_id/id,accounting_company_id/id
 helpdesk_stage_sent_to_factory,Sent to Factory,1,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
 helpdesk_stage_received_at_factory,Received at Factory,2,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,
 helpdesk_stage_sent_to_sales_centre,Sent to Sales Centre,9,1,,,Blocked,Ready,In Progress,helpdesk.helpdesk_team1,,

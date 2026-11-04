@@ -1,4 +1,4 @@
-id,x_name,x_active,x_color,x_studio_sequence,x_studio_company_id/id
+id,name,active,color,sequence,accounting_company_id/id
 repair_reason_custom_difficult_to_start_the_engine,Difficult to start the engine,1,0,10,seed_master_data_and_settings.company_jinasena_pvt_ltd
 repair_reason_custom_high_current_consumption,High current consumption,1,0,10,seed_master_data_and_settings.company_jinasena_pvt_ltd
 repair_reason_custom_heavy_smoke,Heavy smoke,1,0,10,seed_master_data_and_settings.company_jinasena_pvt_ltd

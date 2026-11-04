@@ -1,4 +1,4 @@
-id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id
+id,name,active,sequence,description,accounting_company_id/id
 repair_stages_1_rep_rec,1-REP-REC,1,10,Repair receipt,seed_master_data_and_settings.company_jinasena_pvt_ltd
 repair_stages_2_started,2-STARTED,1,10,Job started,seed_master_data_and_settings.company_jinasena_pvt_ltd
 repair_stages_3_wt_sp,3-WT-SP,1,10,Waiting for spareparts,seed_master_data_and_settings.company_jinasena_pvt_ltd

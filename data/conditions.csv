@@ -1,4 +1,4 @@
-id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id
+id,name,active,sequence,description,accounting_company_id/id
 conditions_longtm,LONGTM,1,10,When working for too long,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 conditions_on,ON,1,10,When switched on,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 conditions_vspk,VSPK,1,10,Voltage spikes,seed_master_data_and_settings.company_jinasena_agricultural_machinery

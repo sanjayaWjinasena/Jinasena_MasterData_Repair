@@ -1,3 +1,3 @@
-id,name,sequence,x_jin_repair_type,x_studio_rug,x_studio_rug_confirmed,x_studio_with_serial_no,x_studio_without_serial_no
+id,name,sequence,x_jin_repair_type,rug,rug_confirmed,with_serial_no,without_serial_no
 helpdesk_ticket_type_repair_not_under_warranty_with_serial_no,Repair - Not Under Warranty (With Serial No),10,1,,,1,
 helpdesk_ticket_type_repair_not_under_warranty_without_serial,Repair - Not Under Warranty (Without Serial No),10,1,,,,1

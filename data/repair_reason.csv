@@ -1,4 +1,4 @@
-id,x_name,x_active,x_color,x_studio_sequence,x_studio_company_id/id
+id,name,active,color,sequence,accounting_company_id/id
 repair_reason_internal,Internal,1,0,10,seed_master_data_and_settings.company_jinasena_pvt_ltd
 repair_reason_external,External,1,0,10,seed_master_data_and_settings.company_jinasena_pvt_ltd
 repair_reason_internal_7,Internal,1,0,10,seed_master_data_and_settings.company_jinasena_agricultural_machinery
