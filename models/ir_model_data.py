@@ -68,4 +68,13 @@ class IrModelData(models.Model):
             if errors:
                 raise ValueError(f'{model}: {errors}')
             _logger.info('[%s] applied %s Clear-DB rows for Odoo %s records', MODULE, len(ours), model)
+        # the closing stage last: Odoo recomputes helpdesk.team.to_stage_id whenever a team's stages change
+        with open(os.path.join(data_dir, 'link', 'helpdesk.team.csv'), encoding='utf-8-sig', newline='') as f:
+            rows = list(csv.reader(f))
+        col = rows[0].index('to_stage_id/id')
+        res = self.env['helpdesk.team'].sudo().with_context(mode='init', noupdate=False).load(
+            ['id', 'to_stage_id/id'], [[r[0], r[col]] for r in rows[1:] if r and r[col]])
+        errors = [m for m in res.get('messages', []) if m.get('type') == 'error']
+        if errors:
+            raise ValueError(f'helpdesk.team closing stage: {errors}')
         return True
