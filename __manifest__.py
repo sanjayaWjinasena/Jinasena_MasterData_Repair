@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Jinasena : MasterData : Repair',
-    'version': '17.0.0.0.5',
+    'version': '17.0.0.0.6',
     'summary': 'Master-data extracted from CDB for Repair domain.',
     'description': 'Extracted from Clear-DB. Test-env master data. Edit the CSVs in data/ to add/remove rows before install.',
     'author': 'Jinasena Agricultural Machinery (Pvt) Ltd.',
@@ -13,6 +13,7 @@
         'Jinasena_MasterData_Accounting',
     ],
     'data': [
+        'data/00_bind_teams.xml',
         'data/repair_accounts.csv',
         'data/repair_stages.csv',
         'data/repair_reason.csv',
@@ -24,10 +25,12 @@
         'data/symptom_areas.csv',
         'data/symptom_codes.csv',
         'data/resolutions.csv',
+        'data/project.project.csv',
         'data/helpdesk.team.csv',
         'data/helpdesk.stage.csv',
         'data/link/helpdesk.team.csv',
         'data/helpdesk.ticket.type.csv',
+        'data/99_odoo_rows.xml',
     ],
     'installable': True,
     'auto_install': False,

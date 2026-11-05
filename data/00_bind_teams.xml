@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+        <!-- Runs before helpdesk.team.csv: the repair teams are the teams Odoo creates per company
+             (see models/ir_model_data.py). -->
+        <function model="ir.model.data" name="_jinasena_md_repair_bind_teams"/>
+    </data>
+</odoo>
