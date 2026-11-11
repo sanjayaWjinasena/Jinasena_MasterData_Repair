@@ -1,5 +1,5 @@
-id,name,sequence,rug,rug_confirmed,with_serial_no,without_serial_no
-helpdesk_ticket_type_repair_not_under_warranty_with_serial_no,Repair - Not Under Warranty (With Serial No),10,,,1,
-helpdesk_ticket_type_repair_not_under_warranty_without_serial,Repair - Not Under Warranty (Without Serial No),10,,,,1
-helpdesk.type_incident,Repair - Under Warranty -  External not RUG,10,1,0,0,0
-helpdesk.type_question,Repair - Under Warranty - RUG,10,1,1,0,0
+id,name,sequence,rug,rug_confirmed,with_serial_no,without_serial_no,x_jin_repair_type
+helpdesk_ticket_type_repair_not_under_warranty_with_serial_no,Repair - Not Under Warranty (With Serial No),10,,,1,,1
+helpdesk_ticket_type_repair_not_under_warranty_without_serial,Repair - Not Under Warranty (Without Serial No),10,,,,1,1
+helpdesk.type_incident,Repair - Under Warranty -  External not RUG,10,1,0,0,0,1
+helpdesk.type_question,Repair - Under Warranty - RUG,10,1,1,0,0,1
